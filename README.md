@@ -5,7 +5,7 @@
 ©#!zǝяø88∴» ✪[TØѪμ](http://github.com/thomhastings)™ ✪[5тiиgεя](http://ksoona.github.io)® —[didym0us](http://ejje.weblio.jp/content/65803+Didymos)☻ #!∆∴»~ skip to: [Downloads](https://github.com/ksoona/attackvector/blob/master/README.md#download)
 ![Propaganda](http://media.arstechnica.com/news.media/linux-desktop-i-want-to-believe.jpg)
 「**AttackVector Linux**」 is a new distribution for anonymized* penetration testing & security auditing.  
-If you will, the "[dargon](http://www.n1tr0g3n.com/wp-content/uploads/2011/12/Green_dragon_by_archstroke.png)" {[龍](http://dragonkahn.deviantart.com/art/Sleek-and-Sporty-528791)} now has "[tails](http://tails.boum.org)" —get [it](http://5tinger.deviantart.com/art/Sleek-and-Sporty-2-60881670)? Follow the extended [meta](https://www.spaceglasses.com)phor? **AVL** is organized around a [custom](http://sf.net/p/customwheezy7)ized [Kali](http://kali.org) build, using design patterns from [Tails](https://tails.boum.org), as well as aethetic ideas from [Parrot](http://parrotsec.org).  All of the above are based on [Debian](http://debian.org). Дtta¢k Vεcтøя also comes with additional tools not found in these prior art sub-distributions.
+If you will, the "[dargon](http://www.n1tr0g3n.com/wp-content/uploads/2011/12/Green_dragon_by_archstroke.png)" {[龍](http://dragonkahn.deviantart.com/art/Sleek-and-Sporty-528791)} now has "[tails](http://tails.boum.org)" —get [it](http://5tinger.deviantart.com/art/Sleek-and-Sporty-2-60881670)? Follow the extended [meta](https://www.spaceglasses.com)phor? **AVL** is organized around a [custom](http://sf.net/p/customwheezy7)ized [Kali](http://kali.org) build, using design patterns from [Tails](https://tails.boum.org), as well as aesthetics ideas from [Parrot](http://parrotsec.org).  All of the above are based on [Debian](http://debian.org). Дtta¢k Vεcтøя also comes with additional tools not found in these prior art sub-distributions.
 
 -------------------------------------------------------------------
 
@@ -13,20 +13,19 @@ Design Philosophy
 =================
 **Yin** and _Yang_
 
-_AttackVector Linux_ (A.V.L.) is a [Kali](http://kali.org) [live-build](http://docs.kali.org/live-build/live-build-a-custom-kali-iso) "recipe", which can be thought of as add-ons for Kali live-build.  
-The biggest add-on is [Tor](http://torproject.org) _installed_ by default. It is taken from [Tails](http://tails.boum.org)' [design patterns](https://tails.boum.org/contribute/design/).  
+_AttackVector Linux_ (A.V.L.) is a [Kali](http://kali.org) [live-build](http://docs.kali.org/live-build/live-build-a-custom-kali-iso) "recipe", which can be thought of as add-ons for Kali live-build. The biggest add-on is [Tor](http://torproject.org) _installed_ by default. It is taken from [Tails](http://tails.boum.org)' [design patterns](https://tails.boum.org/contribute/design/).  
 
 **Kali** vs. _Tails_
 
 While Kali requires a modified kernel for network drivers to use injection and so forth,  
-TAILS is designed from the bottom up for encryption, and anonymity. These can dovetail.  
+TAILS is designed from the bottom up for encryption, and anonymity. _These can dovetail._  
 **The intention of AttackVector Linux is to provide the capability to anonymize attacks  
 _while warning the user when he or she takes actions that may compromise anonymity._**  
 The two projects have different design philosophies that can directly conflict with one another.  
 In spite of this, the goal of **AttackVector Linux** is to integrate them complimentary into one.
 
 ##### Features
-* apt/iceweasel/wget all run through tor (using polipo)
+* *apt*/*iceweasel*/*wget* all run through *tor* (using *polipo*)
 * Iceweasel includes cookie monster, [HTTPS Everywhere](https://www.eff.org/https-everywhere), TORbutton, and other great extensions
 * Incredible password recovery tools: [hashkill](http://www.gat3way.eu/hashkill) OCLHashcat, many more!
 * Great Ruby tools like [Ronin](https://github.com/ronin-ruby/) ...and [Bro](https://www.bro.org)[nin](http://rwnin.blogspot.com)?
