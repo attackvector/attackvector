@@ -311,7 +311,7 @@ Eventually this Kali derivative should meet the [TAILS design specifications](ht
 + Torrent tracker? just for downloads...
 * Debian repositories! via git-pkg
 * Add [more](https://www.trustedsec.com/downloads) [tools](https://github.com/trustedsec)!
-* Automate!
+* ![50?](http://s1.bild.me/bilder/120914/534557750shades.png)
 
 --------------
 ###### license
